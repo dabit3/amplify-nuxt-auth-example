@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-auth",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@aws-amplify/ui-vue": "^0.2.22",
+    "aws-amplify": "^3.3.3",
+    "core-js": "^3.6.5",
+    "express": "^4.17.1",
+    "nuxt": "^2.14.6"
+  },
+  "devDependencies": {}
+}

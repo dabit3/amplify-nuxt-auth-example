@@ -1,0 +1,17 @@
+{
+    "auth": {
+        "nuxtauthe5c9a36a": {
+            "service": "Cognito",
+            "providerPlugin": "awscloudformation",
+            "dependsOn": [],
+            "customAuth": false
+        }
+    },
+    "hosting": {
+        "amplifyhosting": {
+            "service": "amplifyhosting",
+            "providerPlugin": "awscloudformation",
+            "type": "manual"
+        }
+    }
+}
